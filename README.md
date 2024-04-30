@@ -31,4 +31,3 @@
 ## Credits
 
 This project was developed by studying Udemy courses of [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)on React. Special thanks to the instructor and course materials for providing valuable insights and guidance.
-# Project-Management-App
